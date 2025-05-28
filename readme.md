@@ -190,8 +190,8 @@
 
 # 🤝贡献者
 
-<a href="https://github.com/lc044/wechatmsg/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lc044/wechatmsg" />
+<a href="https://github.com/STDquantum/wechatmsg/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=STDquantum/wechatmsg" />
 </a>
 
 ## 赞助者名单
